@@ -8,7 +8,7 @@ namespace Layer\Manager;
  */
 interface ManagerInterface
 {
-    /**
+     /**
      * Insert new entity data to the DB
      * @param mixed $entity
      * @return mixed
